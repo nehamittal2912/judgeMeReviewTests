@@ -1,4 +1,4 @@
-The Test covered are :
+The Test covered are:
 1.search the product for a specific country only
 2.search the product with Atleast 4.5 stars
 3.search the product reviews 50 or more
