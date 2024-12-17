@@ -51,7 +51,7 @@ test('search the product reviews 50 or more', async () => {
   }
 })
 
-  test.skip('search a prduct with price over 100 pounds', async () => {
+  test.skip('search a product with price over 100 pounds', async () => {
     const productResultPage = new ProductResultPage(page);
     await productResultPage.SearchProductFilters();
     await productResultPage.over_100.click()
